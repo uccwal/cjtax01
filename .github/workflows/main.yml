@@ -27,14 +27,15 @@ jobs:
       - name: 정책자금 데이터 수집 (data.json 생성)
         run: python collector_gh.py
 
-      - name: data.json 강제 커밋 및 푸시
+      - name: data.json 커밋 및 푸시
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 항상 변경된 것처럼 데이터 복사 (혹은 날짜/타임스탬프 추가)
-          timestamp=$(date +"%Y-%m-%d %H:%M:%S")
-          echo "// updated at $timestamp" >> data.json
+          git add data.json
+          git commit --allow-empty -m "Update data.json"
+          git pull --rebase origin main
+          git push origin main
+
       
           git add data.json
           git commit -m "Force update data.json at $timestamp" || echo "Nothing to commit, forcing commit anyway"
