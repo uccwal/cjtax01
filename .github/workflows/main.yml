@@ -32,4 +32,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
           git commit -m "Update data.json" || echo "No changes to commit"
-          git push
+          git push origin main --force   # 🔥 강제로 덮어쓰기
+
