@@ -32,5 +32,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
           git commit -m "Update data.json" || echo "No changes to commit"
-          git push origin main --force   # 🔥 강제로 덮어쓰기
+          git pull --rebase origin main   # 🔥 최신 커밋 먼저 반영
+          git push origin main
+
 
