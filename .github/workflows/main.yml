@@ -35,4 +35,7 @@ jobs:
           git pull --rebase origin main   # 🔥 최신 커밋 먼저 반영
           git push origin main
 
+      - name: PythonAnywhere 서버 업데이트 호출
+        run: |
+          curl -X GET https://chunjitax.pythonanywhere.com/update_from_github
 
