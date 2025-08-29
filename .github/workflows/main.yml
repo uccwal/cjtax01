@@ -36,12 +36,6 @@ jobs:
           git pull --rebase origin main
           git push origin main
 
-      
-          git add data.json
-          git commit -m "Force update data.json at $timestamp" || echo "Nothing to commit, forcing commit anyway"
-          
-          git pull --rebase origin main
-          git push origin main
 
 
       - name: PythonAnywhere 서버 업데이트 호출
