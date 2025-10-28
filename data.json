@@ -1,7 +1,28 @@
 [
   {
     "totCnt": 290,
-    "inqireCo": 528,
+    "inqireCo": 361,
+    "rceptEngnHmpgUrl": null,
+    "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115850",
+    "jrsdInsttNm": "인천광역시",
+    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000734339&fileSn=0",
+    "pldirSportRealmLclasCodeNm": "금융",
+    "trgetNm": "소상공인",
+    "bsnsSumryCn": "<p>인천신용보증재단과 우리은행이 소기업, 소상공인의 경영안정과 성장을 지원하기 위한 2025 우리은행 컨설팅 연계 협약보증을 시행합니다.&nbsp;&nbsp;</p><p><br></p><p>☞&nbsp;우리은행「소상공인종합지원센터」로부터 \"컨설팅 수료 확인서\"를 발급 받은 인천광역시 소재 소기업ㆍ소상공인</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;최대 2억원 이내 (재단 심사에 따라 결정) 지원</p><p style=\"line-height: 1.8;\">-&nbsp;보증기간 : 1년(만기일시상환, 최대10년까지 연장), 5년(1년거치 4년분할)</p><p style=\"line-height: 1.8;\">-&nbsp;보증료율 : 연 1.0% (고정)</p>",
+    "reqstBeginEndDe": "예산 소진시까지",
+    "printFileNm": "2025 우리은행 컨설팅 연계 협약보증.png",
+    "pldirSportRealmMlsfcCodeNm": "보증",
+    "reqstMthPapersCn": "온라인, 방문 접수\n- 온라인 : 모바일「보증드림」앱을 통한  비대면 보증신청 \n- 접수처 : 모바일「보증드림」앱 내 상담예약 하러가기를 통한 상담 예약\n※ 비대면 상담이 어려운 디지털 소외계층의 경우 신청 기간 중 예약 없이 관할 지점을 방문하여 신청 가능\n※ 자세한 신청방법 공고문 참조",
+    "excInsttNm": "인천신용보증재단",
+    "refrncNm": "인천신용보증재단 각 지점 1577-3790 / 우리은행 소상공인종합지원센터 032-434-0341",
+    "pblancNm": "[인천] 2025년 우리은행 컨설팅 연계 협약보증 지원",
+    "hashtags": "금융,인천,우리은행,2025,협약보증,경영안정,인천신용보증재단,인천광역시,컨설팅,소기업,소상공인",
+    "creatPnttm": "2025-10-27 10:04:25",
+    "pblancId": "PBLN_000000000115850"
+  },
+  {
+    "totCnt": 290,
+    "inqireCo": 778,
     "rceptEngnHmpgUrl": "https://mplus.startup-plus.kr/project/PRJ006229",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115845",
     "jrsdInsttNm": "서울특별시",
@@ -24,7 +45,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 365,
+    "inqireCo": 569,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115825",
     "jrsdInsttNm": "전북특별자치도",
@@ -45,7 +66,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 293,
+    "inqireCo": 455,
     "rceptEngnHmpgUrl": "https://www.gntp.or.kr/biz/applyInfo/3535",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115800",
     "jrsdInsttNm": "경상남도",
@@ -68,7 +89,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 257,
+    "inqireCo": 329,
     "rceptEngnHmpgUrl": "https://jeis.or.kr/suppbis/suppbisdtl.ac?annoId=aec1fde8282b41c2be4351dab5f385ae",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115779",
     "jrsdInsttNm": "제주특별자치도",
@@ -91,7 +112,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 625,
+    "inqireCo": 758,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115769",
     "jrsdInsttNm": "부산광역시",
@@ -112,7 +133,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1147,
+    "inqireCo": 1251,
     "rceptEngnHmpgUrl": "https://www.k-pass.kr/notice/ancView.do?ancId=P2836&gubun=NEW&pageIndex=1&searchAncTitNm=%EC%A7%80%EC%97%AD%EC%82%B0%EC%97%85&searchAncGrCd=&searchPrgWorkCd=&searchSrtDtm=&searchEndDtm=",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115732",
     "jrsdInsttNm": "산업통상부",
@@ -135,7 +156,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 3638,
+    "inqireCo": 3824,
     "rceptEngnHmpgUrl": "https://www.seoulshinbo.co.kr/cyber",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115677",
     "jrsdInsttNm": "서울특별시",
@@ -156,7 +177,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 630,
+    "inqireCo": 645,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115687",
     "jrsdInsttNm": "소방청",
@@ -177,7 +198,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 774,
+    "inqireCo": 822,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115682",
     "jrsdInsttNm": "해양수산부",
@@ -200,7 +221,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 455,
+    "inqireCo": 476,
     "rceptEngnHmpgUrl": "https://www.seis.or.kr/mainPage.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115681",
     "jrsdInsttNm": "충청남도",
@@ -221,7 +242,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1423,
+    "inqireCo": 1474,
     "rceptEngnHmpgUrl": "https://www.seoulsbdc.or.kr/sb/main.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115625",
     "jrsdInsttNm": "서울특별시",
@@ -242,7 +263,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 914,
+    "inqireCo": 937,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115602",
     "jrsdInsttNm": "서울특별시",
@@ -265,7 +286,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 653,
+    "inqireCo": 675,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115585",
     "jrsdInsttNm": "전라남도",
@@ -286,30 +307,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 567,
-    "rceptEngnHmpgUrl": null,
-    "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115542",
-    "jrsdInsttNm": "경상북도",
-    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000733269&fileSn=0",
-    "pldirSportRealmLclasCodeNm": "금융",
-    "trgetNm": "중소기업",
-    "bsnsSumryCn": "<p>경북 관광산업의 경쟁력 제고 및 지속 가능한 관광환경 조성을 위한 「2025년 제3차 경상북도 관광진흥기금 융자사업」을 다음과 같이 공고합니다.<br></p><p><br></p><p style=\"line-height: 1.8;\">☞ 「경상북도 관광진흥기금 설치 및 운용 조례」 제8조에 해당하는 사업자 중 공고일 기준 도내 사업장을 둔 자</p><p><br></p><p style=\"line-height: 1.8;\">☞ 시설자금융자 최대 20억원(금리 0.8%), 운영자금융자 최근 5년 이내 유리한 영업비용의 50%(최대 2억원) 지원<br></p>",
-    "flpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000733270&fileSn=0",
-    "reqstBeginEndDe": "20251014 ~ 20251027",
-    "printFileNm": "2025년 제3차 경상북도 관광진흥기금 융자사업 공고문-최종.hwp",
-    "reqstMthPapersCn": "우편 또는 방문 접수\n※ 22개 관할 시군 광광부서 (공고문 참조)",
-    "pldirSportRealmMlsfcCodeNm": "융자",
-    "excInsttNm": "직접수행",
-    "refrncNm": "경북도청 관광정책과 054-880-3183 ※ 시군별 경상북도 관광진흥기금 융자사업 접수처 공고문 7p 참조",
-    "pblancNm": "[경북] 2025년 제3차 관광진흥기금 융자사업 공고",
-    "hashtags": "금융,경북,관광호텔,편의시설,관광숙박업,증축,관광진흥기금,개보수,융자지원,직접수행,경상북도,융자,2025",
-    "fileNm": "(참고용) 문체부 25년 하반기 관광기금 융자지원 지침.hwp",
-    "creatPnttm": "2025-10-15 10:01:52",
-    "pblancId": "PBLN_000000000115542"
-  },
-  {
-    "totCnt": 290,
-    "inqireCo": 14069,
+    "inqireCo": 14199,
     "rceptEngnHmpgUrl": "https://digital.kosmes.or.kr/dh/map/main.do?",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115398",
     "jrsdInsttNm": "중소벤처기업부",
@@ -332,7 +330,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1353,
+    "inqireCo": 1375,
     "rceptEngnHmpgUrl": "https://www.egbiz.or.kr/sp/supportPrjDtl.do?listUrl=supportPrjCatList&bizCyclId=PD000000049816",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115373",
     "jrsdInsttNm": "경기도",
@@ -355,7 +353,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1793,
+    "inqireCo": 1814,
     "rceptEngnHmpgUrl": "https://untact.koreg.or.kr/web/index.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115339",
     "jrsdInsttNm": "세종특별자치시",
@@ -376,7 +374,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1866,
+    "inqireCo": 1878,
     "rceptEngnHmpgUrl": "https://www.k-pass.kr/notice/ancView.do?ancId=P2832&gubun=NEW&pageIndex=1&searchAncTitNm=&searchAncGrCd=&searchPrgWorkCd=&searchSrtDtm=&searchEndDtm=#",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115361",
     "jrsdInsttNm": "산업통상부",
@@ -399,7 +397,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1025,
+    "inqireCo": 1051,
     "rceptEngnHmpgUrl": "https://untact.koreg.or.kr/web/index.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115359",
     "jrsdInsttNm": "세종특별자치시",
@@ -420,7 +418,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 2269,
+    "inqireCo": 2327,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115323",
     "jrsdInsttNm": "경기도",
@@ -441,7 +439,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 4490,
+    "inqireCo": 4728,
     "rceptEngnHmpgUrl": "https://digital.kosmes.or.kr/dh/map/main.do?",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115300",
     "jrsdInsttNm": "중소벤처기업부",
@@ -462,7 +460,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 3581,
+    "inqireCo": 3603,
     "rceptEngnHmpgUrl": "https://untact.koreg.or.kr/web/index.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115317",
     "jrsdInsttNm": "중소벤처기업부",
@@ -483,7 +481,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 3121,
+    "inqireCo": 3158,
     "rceptEngnHmpgUrl": "https://untact.koreg.or.kr/web/index.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115316",
     "jrsdInsttNm": "중소벤처기업부",
@@ -504,7 +502,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1693,
+    "inqireCo": 1734,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115256",
     "jrsdInsttNm": "부산광역시",
@@ -525,7 +523,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 870,
+    "inqireCo": 880,
     "rceptEngnHmpgUrl": "https://bizok.incheon.go.kr/open_content/support.do?act=detail&policyno=6279&keyfield=poilicy_nm&keyword=%EC%9E%AC%ED%95%B4%EC%9E%90%EA%B8%88",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115229",
     "jrsdInsttNm": "인천광역시",
@@ -546,7 +544,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 931,
+    "inqireCo": 949,
     "rceptEngnHmpgUrl": "https://hext.ubpi.or.kr/hext/apply/view.jsp?no=6",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115171",
     "jrsdInsttNm": "울산광역시",
@@ -567,7 +565,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 12190,
+    "inqireCo": 12427,
     "rceptEngnHmpgUrl": "https://ols.semas.or.kr/ols/man/SMAN010M/page.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115147",
     "jrsdInsttNm": "중소벤처기업부",
@@ -588,7 +586,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 4736,
+    "inqireCo": 4784,
     "rceptEngnHmpgUrl": "https://ols.semas.or.kr/ols/man/SMAN010M/page.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115163",
     "jrsdInsttNm": "중소벤처기업부",
@@ -609,7 +607,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 3543,
+    "inqireCo": 3582,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115115",
     "jrsdInsttNm": "강원특별자치도",
@@ -630,7 +628,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1922,
+    "inqireCo": 1945,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115108",
     "jrsdInsttNm": "전북특별자치도",
@@ -651,7 +649,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 2189,
+    "inqireCo": 2207,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115134",
     "jrsdInsttNm": "전북특별자치도",
@@ -672,7 +670,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 940,
+    "inqireCo": 955,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115133",
     "jrsdInsttNm": "부산광역시",
@@ -693,7 +691,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 720,
+    "inqireCo": 734,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115131",
     "jrsdInsttNm": "울산광역시",
@@ -714,7 +712,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 852,
+    "inqireCo": 869,
     "rceptEngnHmpgUrl": "https://www.cbsinbo.or.kr/",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115096",
     "jrsdInsttNm": "충청북도",
@@ -735,7 +733,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1185,
+    "inqireCo": 1191,
     "rceptEngnHmpgUrl": "https://www.gmi.go.kr/gb/receipt.do?menuCd=3090",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115086",
     "jrsdInsttNm": "기후에너지환경부",
@@ -758,7 +756,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 2151,
+    "inqireCo": 2197,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115072",
     "jrsdInsttNm": "인천광역시",
@@ -779,7 +777,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1218,
+    "inqireCo": 1241,
     "rceptEngnHmpgUrl": "https://www.gjbizinfo.or.kr/onlineView.do?pageId=www63&onlineSn=201&sosang=Y",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115059",
     "jrsdInsttNm": "광주광역시",
@@ -800,7 +798,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 690,
+    "inqireCo": 697,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115035",
     "jrsdInsttNm": "충청남도",
@@ -823,7 +821,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 603,
+    "inqireCo": 608,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115024",
     "jrsdInsttNm": "경상북도",
@@ -846,7 +844,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 619,
+    "inqireCo": 628,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115003",
     "jrsdInsttNm": "제주특별자치도",
@@ -869,7 +867,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 3606,
+    "inqireCo": 3703,
     "rceptEngnHmpgUrl": "https://g-money.gg.go.kr/main.htm",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115001",
     "jrsdInsttNm": "경기도",
@@ -890,7 +888,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 927,
+    "inqireCo": 949,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000115000",
     "jrsdInsttNm": "세종특별자치시",
@@ -911,7 +909,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1138,
+    "inqireCo": 1153,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114998",
     "jrsdInsttNm": "울산광역시",
@@ -932,7 +930,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1399,
+    "inqireCo": 1415,
     "rceptEngnHmpgUrl": "https://www.djbea.or.kr/pms/an/an_0101/02/form.tab?cPage=&TSK_PBNC_ID=2025-0169&BIZ_PBNC_NM=%EC%A7%80%EC%97%AD%ED%8A%B9%ED%99%94&PBNC_BEGDTM=&PBNC_ENDDTM=&RCIP_BEGDTM=&RCIP_ENDDTM=&IDX=",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114859",
     "jrsdInsttNm": "대전광역시",
@@ -953,7 +951,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1229,
+    "inqireCo": 1243,
     "rceptEngnHmpgUrl": "https://ebizcb.chungbuk.go.kr/plc/selectPolicyInf.do?plcInfId=7b90b4af-3337-471b-9ae0-2bfbf5a1fc59&menuId=MNU_0000000000000121&grpCode=",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114851",
     "jrsdInsttNm": "충청북도",
@@ -974,7 +972,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1520,
+    "inqireCo": 1530,
     "rceptEngnHmpgUrl": "https://jbok.kr/",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114820",
     "jrsdInsttNm": "전북특별자치도",
@@ -995,7 +993,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1411,
+    "inqireCo": 1422,
     "rceptEngnHmpgUrl": "https://jbok.kr/",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114840",
     "jrsdInsttNm": "전북특별자치도",
@@ -1016,7 +1014,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 999,
+    "inqireCo": 1006,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114773",
     "jrsdInsttNm": "강원특별자치도",
@@ -1039,7 +1037,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 1190,
+    "inqireCo": 1196,
     "rceptEngnHmpgUrl": "https://untact.koreg.or.kr/web/index.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114772",
     "jrsdInsttNm": "강원특별자치도",
@@ -1060,7 +1058,7 @@
   },
   {
     "totCnt": 290,
-    "inqireCo": 865,
+    "inqireCo": 873,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114768",
     "jrsdInsttNm": "충청북도",
